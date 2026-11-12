@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gmax.branch",
+      "sha256_cert_fingerprints": [
+        "1abce4618845ccc569bbc29f61dde95f35bd63456d9d5e7e955595dadd93ca0e"
+      ]
+    }
+  }
+]
