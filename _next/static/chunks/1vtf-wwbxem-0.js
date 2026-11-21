@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,31713,e=>{"use strict";var t=e.i(43476),c=e.i(71645);e.s(["default",0,function(){return(0,c.useEffect)(()=>{window.location.replace("/branch/")},[]),(0,t.jsx)("p",{style:{padding:24},children:"جارِ التحويل..."})}])}]);
